@@ -3,8 +3,7 @@ Welcome to SimTheory's documentation!
 
 **SimTheory** is the AI console of the future.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`getting_started` to get yourself set up.
 
 .. note::
 
@@ -15,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
+   getting_started
    api_reference
